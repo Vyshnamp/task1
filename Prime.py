@@ -10,5 +10,7 @@ if num > 1:
             break
     else:
         print(num, "is a prime number")
+        print("hiii...")
+        print("hello...")
 else:
     print(num, "is not a prime number")
