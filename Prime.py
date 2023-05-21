@@ -12,5 +12,6 @@ if num > 1:
         print(num, "is a prime number")
         print("hiii...")
         print("hello...")
+        print("Not prime")
 else:
     print(num, "is not a prime number")
